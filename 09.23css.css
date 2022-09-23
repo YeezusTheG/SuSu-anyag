@@ -5,6 +5,6 @@
 .piroshatter{
     background-color: red;
 }
-td:nth-child(2){
+td:nth-child(2n){
     color: violet;
 }
