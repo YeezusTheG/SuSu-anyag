@@ -1,0 +1,17 @@
+nav{
+    color: blue;
+}
+nav li{
+    color: red;
+    float: left;
+    padding-left: 5px;
+}
+nav a{
+    color: red;
+}
+a:visited{
+    color: blue;
+}
+nav ul{
+    list-style-type: none;
+}
